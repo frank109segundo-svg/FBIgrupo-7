@@ -48,7 +48,7 @@ Somos el Grupo 07 de Fundamentos de Biodiseño, conformado por estudiantes unive
     <td width="150px"><img src="fotos/FOTO FRANK SEGUNDO SALAZAR.jpeg"  width="120px"></td>
     <td>
       <b>integrante: Frank Oliver Segundo Salazar  
-      <br>Edad: 20
+      <br>Edad: 20    
       <br>Hábito: Dormir
       <br><i>"Crear propuestas innovadoras que puedan tener un impacto real"</i>  
       <br><b>Rol:</b> <font color="green">Secretario</font>
